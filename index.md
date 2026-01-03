@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Last updated: 2025-01-01
+Last updated: 2026-01-03
 
 MemoruSha Academy ("the app") is developed and provided by better call ekrem.
 This Privacy Policy explains how the app handles information and user data.
