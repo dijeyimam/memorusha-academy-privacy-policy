@@ -1,63 +1,77 @@
-# Privacy Policy  
-Last updated: 2025-01-01  
+# Privacy Policy
 
-MemoruSha Academy ("the app") is developed and provided by better call ekrem  
-This Privacy Policy explains how the app handles information and user data.  
+Last updated: 2025-01-01
 
-## Information We Collect  
-The app does **not** collect, store, transmit, or process any personal data.  
-All progress, preferences, and settings are stored **locally on your device only**.  
+MemoruSha Academy ("the app") is developed and provided by better call ekrem.
+This Privacy Policy explains how the app handles information and user data.
 
-The app does not request personal identifiers such as:  
-- Name  
-- Email address  
-- Photos  
-- Contacts  
-- Location  
-- Payment information  
+## Information We Collect
 
-No data is retained by us or stored on external servers.  
+The app does not collect or store personal data on our servers.
+All progress, preferences, and settings are stored locally on your device only.
 
-## Ads and In-App Purchases  
-The app does **not** contain advertisements and does **not** offer in-app purchases.  
+The app does not request personal identifiers such as:
 
-## Analytics and Tracking  
-The app does **not** use analytics tools, tracking technologies, cookies, crash logging, or usage monitoring systems.  
+- Name
+- Email address
+- Photos
+- Contacts
+- Location
+- Payment information
 
-## Notifications  
-The app may send optional notifications.  
-Notification permissions are entirely controlled by the user and can be enabled or disabled at any time in device settings.  
+No data is retained by us or stored on external servers.
 
-## Third-Party Services  
-The app does **not** integrate with:  
-- Analytics platforms  
-- Advertising networks  
-- Cloud databases  
-- SDKs  
-- Third-party tracking systems  
+## Ads and In-App Purchases
 
-## Data Sharing  
-We do **not** share, sell, rent, or disclose any personal information to any third party.  
+The free version may show family-safe, non-personalized ads (banner/rewarded).
+Ads are never shown during gameplay.
+Premium subscription removes ads and unlocks progress tracking/statistics components.
 
-## Children’s Privacy  
-The app may be used by children, including users under 13 years old.  
-Since no personal data is collected, stored, or transmitted, no additional processing applies to children.  
-The app complies with child data safety requirements.  
+## Analytics and Tracking
 
-## Security  
-Since the app does not collect or store data on servers, security depends on the device and operating system used.  
-We encourage users to keep their device secure and updated.  
+The app does not use third-party analytics or tracking SDKs.
+Ad providers may process limited device information for ad delivery and measurement.
 
-## International Use  
-The app may be used globally.  
-Since no data is collected or transmitted, no cross-border data transfer applies.  
+## Notifications
 
-## Contact  
-If you have questions or requests regarding privacy, you may contact us at:  
-**Email:** kabacasadik.57@gmail.com
+The app may send optional notifications.
+Notification permissions are entirely controlled by the user and can be enabled or disabled at any time in device settings.
 
-## Changes to This Policy  
-We may update this Privacy Policy from time to time.  
-Any changes will be posted on this page and will apply immediately upon posting.  
+## Third-Party Services
+
+The app may use:
+
+- Google Play Billing (subscriptions)
+- Google AdMob (family-safe, non-personalized ads)
+
+## Data Sharing
+
+We do not share, sell, rent, or disclose any personal information to any third party.
+
+## Children’s Privacy (Families Compliance)
+
+The app is suitable for ages 5+.
+Ads are family-appropriate and non-personalized.
+We do not knowingly collect personal data from children.
+
+## Security
+
+Since the app does not collect or store data on servers, security depends on the device and operating system used.
+We encourage users to keep their device secure and updated.
+
+## International Use
+
+The app may be used globally.
+Since no data is collected or transmitted, no cross-border data transfer applies.
+
+## Contact
+
+If you have questions or requests regarding privacy, you may contact us at:
+Email: Perfoisperte369@proton.me
+
+## Changes to This Policy
+
+We may update this Privacy Policy from time to time.
+Any changes will be posted on this page and will apply immediately upon posting.
 
 By using the app, you agree to this Privacy Policy.
