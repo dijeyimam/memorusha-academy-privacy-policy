@@ -23,13 +23,13 @@ No data is retained by us or stored on external servers.
 
 ## Ads and In-App Purchases
 
-The free version may show family-safe, non-personalized ads (banner/rewarded).
+The free version may show family‑safe, non‑personalized ads (banner/rewarded).
 Ads are never shown during gameplay.
-Premium subscription removes ads and unlocks progress tracking/statistics components.
+The app does not offer in‑app purchases.
 
 ## Analytics and Tracking
 
-The app does not use third-party analytics or tracking SDKs.
+The app does not use third‑party analytics or tracking SDKs.
 Ad providers may process limited device information for ad delivery and measurement.
 
 ## Notifications
@@ -37,21 +37,21 @@ Ad providers may process limited device information for ad delivery and measurem
 The app may send optional notifications.
 Notification permissions are entirely controlled by the user and can be enabled or disabled at any time in device settings.
 
-## Third-Party Services
+## Third‑Party Services
 
 The app may use:
 
-- Google Play Billing (subscriptions)
-- Google AdMob (family-safe, non-personalized ads)
+- Google AdMob (family‑safe, non‑personalized ads)
 
 ## Data Sharing
 
 We do not share, sell, rent, or disclose any personal information to any third party.
+We do not sell or share personal information as defined by the CCPA/CPRA.
 
 ## Children’s Privacy (Families Compliance)
 
 The app is suitable for ages 5+.
-Ads are family-appropriate and non-personalized.
+Ads are family‑appropriate and non‑personalized.
 We do not knowingly collect personal data from children.
 
 ## Security
@@ -62,7 +62,12 @@ We encourage users to keep their device secure and updated.
 ## International Use
 
 The app may be used globally.
-Since no data is collected or transmitted, no cross-border data transfer applies.
+Since no data is collected or transmitted, no cross‑border data transfer applies.
+
+## Your Rights
+
+- GDPR (EEA/UK): you may request access, correction, or deletion of any data we may hold.
+- CCPA/CPRA (California): you may request to know or delete personal information; we do not sell/share data.
 
 ## Contact
 
