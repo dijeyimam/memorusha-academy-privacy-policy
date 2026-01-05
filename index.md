@@ -18,7 +18,7 @@ The app may use:
 
 ## Data Sharing
 
-We do not share, sell, rent, or disclose personal information to third parties. In addition, we do not sell personal information as defined by the CCPA/CPRA.
+We do not share, sell, rent, or disclose any personal information to any third party.
 
 ## Children’s Privacy (Families Compliance)
 
