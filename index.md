@@ -1,79 +1,60 @@
 # Privacy Policy
-  Last updated: 2026-01-03
+Last updated: January 11, 2026
 
-  MemoruSha Academy ("the app") is developed and provided by better call ekrem.
-  This Privacy Policy explains how the app handles information and user data.
+MemoruSha Academy ("the app") is developed and provided by **better call ekrem**. This Privacy Policy explains how the app handles information and user data.
 
-  ## Information We Collect
-  The app does not collect or store personal data on our servers.
-  All progress, preferences, and settings are stored locally on your device only.
+## 1. Target Audience
+This Service is intended for general audiences aged **13 and older**. We do not knowingly collect personal information from children under 13. If we become aware that we have inadvertently collected such data, we will take steps to delete it immediately.
 
-  The app does not require personal identifiers such as:
-  - Name
-  - Email address
-  - Photos
-  - Contacts
-  - Location
-  - Payment information
+## 2. Information We Collect
+The app itself does not collect or store personal data (like names, emails, or photos) on our servers. All training progress, preferences, and high scores are stored locally on your device.
 
-  If you choose to enter optional profile details (name/email), they are stored only on your device and are not sent to our servers.
+However, we use third-party services that may collect information used to identify your device to provide advertisements and analytics.
 
-  ## Why We Use Data (Purpose)
-  - Core app functionality (progress tracking and settings)
-  - Family‑safe, non‑personalized ads in the free version
-  - Compliance with applicable legal obligations (child‑directed settings)
+**Data collected by Third-Party Services (Google AdMob) may include:**
+- Advertising ID (GAID)
+- Device information (Model, OS version, Network type)
+- App interactions (Ad impressions and clicks)
+- Approximate location (based on IP address)
 
-  ## Ads and In‑App Purchases
-  The free version may show family‑safe, non‑personalized ads (banner/native/rewarded/occasional full‑screen between games).
-  Ads are never shown during gameplay.
-  The app does not offer in‑app purchases or subscriptions.
+## 3. Why We Use Data (Purpose)
+- **Core Functionality:** To save your memory training progress and settings locally.
+- **Advertising:** To display advertisements via Google AdMob to support the free version of the app.
+- **Performance:** To analyze app stability and crash reports.
 
-  ## Consent (GDPR/EEA/UK)
-  If you are in the EEA/UK, we request consent for ads via a Consent Management Platform (CMP).
-  - You can accept or decline consent.
-  - If you decline, we may show limited, non‑personalized ads.
-  - You can change your choice any time using the in‑app privacy options.
+## 4. Ads and User Consent (GDPR/UK/EEA)
+This app uses **Google AdMob** to display advertisements.
 
-  ## Analytics and Tracking
-  The app does not use third‑party analytics or tracking SDKs.
-  Ad providers may process limited device information (including advertising identifiers) for ad delivery and measurement.
+**For users in the EEA, UK, and other regulated regions:**
+We use a Certified Consent Management Platform (CMP) to request your permission before collecting data for personalized ads.
+- **If you accept (Consent):** Google may use your Advertising ID to show ads that are relevant to your interests (Personalized Ads).
+- **If you decline:** You will still see ads, but they may be less relevant to you (Non-Personalized Ads) and will not use your advertising identifiers for personalization.
 
-  ## Notifications
-  The app may send optional notifications.
-  Notification permissions are entirely controlled by the user and can be enabled or disabled at any time in device settings.
+You can withdraw or change your consent at any time within the app settings.
 
-  ## Third‑Party Services
-  The app may use:
-  - Google AdMob (family‑safe, non‑personalized ads)
+## 5. Permissions
+The app requires the following permissions to function correctly:
+- **Internet Access:** Required to load advertisements and content.
+- **Advertising ID Permission (`com.google.android.gms.permission.AD_ID`):** Used by AdMob for advertising and analytics purposes in compliance with Google Play policies.
 
-  ## Data Sharing
-  We do not share, sell, or rent personal information.
-  We do not sell or share personal information as defined by the CCPA/CPRA.
+## 6. Third-Party Services
+The app uses the following third-party service providers. We recommend reviewing their privacy policies:
+- **Google AdMob:** [Google Privacy Policy](https://policies.google.com/privacy)
 
-  ## Children’s Privacy (Families Compliance)
-  The app is suitable for ages 5+.
-  Ads are family‑appropriate and non‑personalized.
-  We do not knowingly collect personal data from children.
+## 7. Security
+We prioritize the security of your local data. Since we do not transmit your personal training data to any cloud server, your progress remains solely on your device. However, please remember that no method of electronic storage is 100% secure.
 
-  ## Security
-  All local data is stored securely on your device.
-  We encourage users to keep their device secure and updated.
+## 8. International Use
+The app is available globally. By using the app, you acknowledge that third-party ad networks (Google) may process technical data in various countries subject to their own privacy policies.
 
-  ## International Use
-  The app may be used globally.
-  Since no personal data is collected or transmitted by us, cross‑border data transfer is not applicable.
+## 9. Your Rights (CCPA/GDPR)
+Depending on your location, you have the right to:
+- Access, correct, or delete your data.
+- Opt-out of the sale or sharing of personal information for advertising purposes.
+- Withdraw consent for personalized ads.
 
-  ## Your Rights
-  - GDPR (EEA/UK): you may request access, correction, or deletion of any personal data we may hold.
-  - CCPA/CPRA (California): you may request to know, delete, or opt‑out of sale of personal information; we do not sell or share personal information as defined by those
-  laws.
+Since the developer does not store user data on external servers, please contact the third-party service provider (Google) directly for data requests related to ads, or use the app's "Clear Data" features to reset your local progress.
 
-  ## Contact
-  If you have questions or wish to exercise your rights, contact:
-  Perfoisperte369@proton.me
-
-  ## Changes to This Policy
-  We may update this Privacy Policy from time to time.
-  Any changes will be posted on this page and will apply immediately upon posting.
-
-  By using the app, you agree to this Privacy Policy.
+## 10. Contact
+If you have questions about this Privacy Policy, please contact:
+**Email:** Perfoisperte369@proton.me
